@@ -1,0 +1,3 @@
+@mixin milden-transition($property) {
+  transition: $property 65ms linear;
+}
